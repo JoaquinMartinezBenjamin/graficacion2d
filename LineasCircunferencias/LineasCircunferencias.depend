@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1477007587 source:c:\users\benjamín\desktop\lineascircunferencias\main.cpp
+	<stdio.h>
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+
